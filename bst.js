@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-expressions */
 /* eslint-disable no-console */
 /* eslint-disable max-len */
 /* eslint-disable no-param-reassign */
