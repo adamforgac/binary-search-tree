@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/adamforgac/binary-search-tree#readme",
   "devDependencies": {
+    "eslint": "^8.47.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.1",
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4"
   }
